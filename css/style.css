@@ -1,0 +1,48 @@
+
+/*DEBUT DU CSS BOUTON*/
+div.allBtn{
+    display: flex;
+
+}
+button.btn{
+    height: 48px;
+    width: 150px;
+}
+div.container-date-selector{
+    margin: 10px;
+    height: 48px;
+    width: 150px;
+}
+/*FIN DU CSS BOUTON*/
+
+
+/*DEBUT DU CSS TAPIS*/ 
+div.container-tapis{
+    display: flex;
+}
+
+div.tapis{
+    display: flex;
+    height: 250px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: rgb(0, 255, 76);
+    display: flex;
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+
+    ;
+}
+
+div.booked{
+    background-color: red;
+}
+
+div.selfBooked{
+    background: yellow;
+}
+/*FIN DU CSS TAPIS*/
+
+
+
